@@ -10,7 +10,7 @@ import { AuthModule } from './auth/auth.module';
       host: 'localhost',
       port: 3306,
       username: 'root',
-      password: 'Dani0064)',
+      password: 'Dani1234@',
       database: 'banco',
       autoLoadEntities: true,
       synchronize: true,
