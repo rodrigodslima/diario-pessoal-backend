@@ -9,12 +9,11 @@ export class Usuario {
   name: string;
 
   @Column({length: 255})
-  password: string;
+  senha: string;
 
   @Column({length: 100})
   email: string;
 
-  @Column('int')
-  views: number;
+  
 
 }
